@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-router-basics/static/css/main.cf57c45e.css",
-    "main.js": "/react-router-basics/static/js/main.a4f297f0.js",
+    "main.js": "/react-router-basics/static/js/main.3b25678a.js",
     "static/js/787.636ba7a7.chunk.js": "/react-router-basics/static/js/787.636ba7a7.chunk.js",
     "static/media/travel9.jpg": "/react-router-basics/static/media/travel9.10fde64c36153fbc7484.jpg",
     "static/media/dress5.jpg": "/react-router-basics/static/media/dress5.5b3bca71251ae34ad313.jpg",
@@ -32,11 +32,11 @@
     "static/media/food5.jpg": "/react-router-basics/static/media/food5.253fe579da673abba7ee.jpg",
     "index.html": "/react-router-basics/index.html",
     "main.cf57c45e.css.map": "/react-router-basics/static/css/main.cf57c45e.css.map",
-    "main.a4f297f0.js.map": "/react-router-basics/static/js/main.a4f297f0.js.map",
+    "main.3b25678a.js.map": "/react-router-basics/static/js/main.3b25678a.js.map",
     "787.636ba7a7.chunk.js.map": "/react-router-basics/static/js/787.636ba7a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf57c45e.css",
-    "static/js/main.a4f297f0.js"
+    "static/js/main.3b25678a.js"
   ]
 }
